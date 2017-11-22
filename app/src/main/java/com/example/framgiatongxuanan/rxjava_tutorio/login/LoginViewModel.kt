@@ -8,4 +8,3 @@ import com.example.framgiatongxuanan.rxjava_tutorio.base.BaseViewModel
  */
 //class LoginViewModel(context: Application,private val mRepository:Res) : BaseViewModel(context) {
 //
-//}
